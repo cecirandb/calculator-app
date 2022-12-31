@@ -1,4 +1,4 @@
-<h1 align='center'><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Calculator+App+%F0%9F%A4%93" alt="Typing SVG" /></a></h1>
+<h1 align='center'><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=435&lines=Calculator+App+%F0%9F%A4%93" alt="Typing SVG" /></h1>
 
 <samp align='center'>Calculator App whit ReactJs and MathJs.</samp>
 
